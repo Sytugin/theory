@@ -11,6 +11,6 @@
 У тестировщиков на проекте есть доступ к коду и автотестам.
 ```
 ## Определение методов, типов и уровней тестирования для приложения "Интернет-магазин".
-- [Ссылка на документ](https://docs.google.com/spreadsheets/d/1oObkeL_aMAM9XzDT5XetSyCVEzTWPfPALA4baD_XYJI/edit?usp=sharing)
+- [Ссылка на документ](https://github.com/Sytugin/theory/blob/main/Типы%20тестирования.xlsx)
 ## Анализ требований для приложения "Интернет-магазин"
-- [Ссылка на документ](https://docs.google.com/spreadsheets/d/1yYVppcWHyfVW_loD9aWkGcC8lFzCn81srSTgVJUQPGk/edit?usp=sharing)
+- [Ссылка на документ](https://github.com/Sytugin/theory/blob/main/Анализ%20требований.xlsx)
